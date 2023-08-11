@@ -7,7 +7,7 @@ import "time"
 
 // 微信支付 API 地址
 const (
-	WechatPayAPIServer       = "https://api.mch.weixin.qq.com"  // 微信支付 API 地址
+	WechatPayAPIServer       = "https://api.mch.weixin.qq.com/xdc/apiv2sandbox"  // 微信支付 API 地址
 	WechatPayAPIServerBackup = "https://api2.mch.weixin.qq.com" // 微信支付 API 备份地址
 )
 
